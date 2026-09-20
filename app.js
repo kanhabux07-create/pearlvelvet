@@ -35,7 +35,7 @@ const CONFIG = {
   memories: [
     {
   id: 1,
-  image: "memory-01.jpg",
+  image: "assets/photos/memory-01.jpg",
   title: "Our First Accidental Eye Contact",
   date: "9 june 2025",
   location: "Our Classroom",
