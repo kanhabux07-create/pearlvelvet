@@ -17,13 +17,13 @@
 
 const CONFIG = {
   // Couple Information
-  person1: "Maya",
-  person2: "Lucas",
-  monogram: "M & L",
-  established: "EST. AUGUST 2023",
+  person1: "Kanha",
+  person2: "Akkanksha",
+  monogram: "K & A",
+  established: "9 june 2025",
   title: "OUR STORY",
-  subtitle: "A collection of little moments that became our forever.",
-  quote: "“In a universe of billions, my eyes will always search for you.”",
+  subtitle: "A collection of little moments that became our life long memory✨.",
+  quote: "“In a universe of billions, my eyes will always search for you💍.”",
   
   // Custom Music MP3 path (leave empty "" to use the built-in procedural piano synthesizer)
   musicUrl: "", 
@@ -36,12 +36,16 @@ const CONFIG = {
     {
       id: 1,
       image: "assets/photos/memory-01.jpg",
-      title: "Our First Accidental Conversation",
+      title: "Our First Accidental eye contact",
       date: "12 August 2023",
       location: "The Corner Bookstore Cafe",
-      story: "I still remember the scent of rainy asphalt and warm espresso. You were reaching for an old art book on the top shelf, and when you turned around and apologized for bumping my arm, time completely stopped. What was supposed to be a polite two-minute exchange turned into a three-hour conversation where we lost track of the entire world.",
-      caption: "The afternoon my whole universe gently changed course.",
-      bfNote: "The way your eyes crinkled when you laughed at my ridiculous joke about paperbacks."
+      story: It started with something so simple… a few looks across the classroom.
+We would sit there, doing our own things, but somehow our eyes would meet again and again. Neither of us said much at first. Just a look, a little smile, and then looking away like nothing happened.
+
+Somehow, those little moments became the reason we started talking. ❤️
+
+      caption: "“One picture, one moment, a memory I’ll always keep. ❤️”,
+      bfNote: "The way you looked at me… and then pretended you weren’t looking at all". ❤️
     },
     {
       id: 2,
