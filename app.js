@@ -18,7 +18,7 @@
 const CONFIG = {
   // Couple Information
   person1: "Kanha",
-  person2: "Akkanksha",
+  person2: "Aakanksha",
   monogram: "K & A",
   established: "9 june 2025",
   title: "OUR STORY",
