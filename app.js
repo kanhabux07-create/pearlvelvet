@@ -53,12 +53,17 @@ Somehow, those little moments became the reason we started talking. ❤️`,
     {
       id: 2,
       image: "assets/photos/memory-02.jpg",
-      title: "The Rainy Walk & One Umbrella",
-      date: "04 September 2023",
-      location: "Downtown Cobblestone Street",
-      story: "A sudden autumn downpour caught us completely off guard. I had only one tiny umbrella, and I remember subtly tilting it toward you the entire walk so you wouldn't get a single drop on your hair—even though my left shoulder was completely soaked. You noticed, took my arm, and stepped in closer. That was the first time I felt your warmth.",
-      caption: "Getting soaked in the rain never felt so warm.",
-      bfNote: "How cold your hands were when you wrapped your fingers around my sleeve."
+      title: "When Things Got Difficult",
+      date: "August 2026",
+      story: `A week or two after we started talking, our parents found out about us, and a complaint was made at school.
+
+Things became a little awkward after that, and she had to deal with more pressure because her parents knew. Still, we kept talking whenever we could.
+
+It wasn't the easiest time, but somehow we managed to stay connected. And honestly, I'm glad we did. ❤️`,
+
+caption: "Not every memory is perfect, but some are worth remembering.",
+
+bfNote: "Even when things got a little messy, you still stayed around. ❤️"”
     },
     {
       id: 3,
