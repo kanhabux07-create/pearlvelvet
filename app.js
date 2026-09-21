@@ -33,7 +33,7 @@ const CONFIG = {
 
   // 10 Central Memories (The core storybook pages)
   memories: [
-    {
+ {
   id: 1,
   image: "assets/photos/memory-01.jpg",
   title: "Our First Accidental Eye Contact",
@@ -51,20 +51,21 @@ Somehow, those little moments became the reason we started talking. ❤️`,
   bfNote: "The way you looked at me… and then pretended you weren't looking at all. ❤️"
 },
     {
-      id: 2,
-      image: "assets/photos/memory-02.jpg",
-      title: "When Things Got Difficult",
-      date: "August 2026",
-      story: `A week or two after we started talking, our parents found out about us, and a complaint was made at school.
+  id: 2,
+  image: "assets/photos/memory-02.jpg",
+  title: "When Things Got Difficult",
+  date: "August 2025",
+
+  story: `A week or two after we started talking, our parents found out about us, and a complaint was made at school.
 
 Things became a little awkward after that, and she had to deal with more pressure because her parents knew. Still, we kept talking whenever we could.
 
 It wasn't the easiest time, but somehow we managed to stay connected. And honestly, I'm glad we did. ❤️`,
 
-caption: "Not every memory is perfect, but some are worth remembering.",
+  caption: "Not every memory is perfect, but some are worth remembering.",
 
-bfNote: "Even when things got a little messy, you still stayed around. ❤️"”
-    },
+  bfNote: "Even when things got a little messy, you still stayed around. ❤️"
+},
     {
       id: 3,
       image: "assets/photos/memory-03.jpg",
