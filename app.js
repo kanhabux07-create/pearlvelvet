@@ -58,14 +58,13 @@ Somehow, those little moments became the reason we started talking. ❤️`,
 
   story: `A week or two after we started talking, things suddenly became a little different.
 
-Our parents found out about us, and for a while, everything felt uncertain. Things became awkward  and you had to deal with a lot more pressure.
+Our parents found out about us, and for a while, everything felt uncertain. You had to deal with a lot more pressure, and things became awkward
 
 But even then, you never completely walked away.
 
-We kept finding little ways to talk whenever we could. Maybe we didn't know where things were going back then, but looking back now, I think that's when I started realizing how much you actually meant to me.
+Little by little, things started feeling normal again. We kept finding small ways to talk whenever we could.
 
-Some memories are beautiful because everything went right. And some are beautiful because, even when things didn't, we still chose to stay. ❤️`,
-
+Looking back, I think that was when I started realizing how much you actually meant to me. ❤️`,
   caption: "Not every memory is perfect, but some are worth remembering.",
 
   bfNote: "Even when things got a little messy, you still stayed around. ❤️"
