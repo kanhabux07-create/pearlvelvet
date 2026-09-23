@@ -75,23 +75,21 @@ Looking back, I think that was when I started realizing how much you actually me
   title: "When Everything Felt Normal Again",
   date: "Class 8",
 
-  story: `After everything that happened, things didn't suddenly become perfect.
+  story: `After everything that happened, things slowly started getting better.
 
-They just started getting better, little by little.
+The awkwardness faded, and little by little, we started talking normally again. We laughed together, spent time together at school, and somehow things began to feel like they used to.
 
-The awkwardness slowly faded. We started talking normally again, spending time together at school, laughing over small things and just being around each other without thinking too much about everything that had happened.
+By the time we were in Class 8, everything felt normal again.
 
-By the time we were in Class 8, it almost felt like we had found our normal again.
-
-And honestly, I think those ordinary days became some of my favorite memories — because nothing special had to happen. Having you around was enough. ❤️`,
+And honestly, those ordinary days became some of my favorite memories. Nothing special had to happen. Having you around was enough. ❤️`,
 
   caption: "Nothing dramatic. Nothing perfect. Just us, slowly finding our way back to normal. ❤️",
 
   bfNote: "I think this was when being around you started feeling less like a moment… and more like a part of my everyday life. ❤️"
 },
     {
-      id: 5,
-      image: "assets/photos/memory-05.jpg",
+      id: 4,
+      image: "assets/photos/memory-04.jpg",
       title: "Midnight Voice Notes & 2 AM Calls",
       date: "15 January 2024",
       location: "Under My Bed Lamp",
@@ -100,8 +98,8 @@ And honestly, I think those ordinary days became some of my favorite memories �
       bfNote: "Your sleepy yawn when you swore you weren't tired yet."
     },
     {
-      id: 6,
-      image: "assets/photos/memory-06.jpg",
+      id: 5,
+      image: "assets/photos/memory-05.jpg",
       title: "Our First Roadtrip & Terrible Singing",
       date: "22 March 2024",
       location: "Highway 101 Toward the Coast",
@@ -110,8 +108,8 @@ And honestly, I think those ordinary days became some of my favorite memories �
       bfNote: "How you tapped your sneakers against the dashboard to the rhythm of the drums."
     },
     {
-      id: 7,
-      image: "assets/photos/memory-07.jpg",
+      id: 6,
+      image: "assets/photos/memory-06.jpg",
       title: "The Great Pasta Disaster",
       date: "14 May 2024",
       location: "My Kitchen",
@@ -120,8 +118,8 @@ And honestly, I think those ordinary days became some of my favorite memories �
       bfNote: "The tiny smudge of flour on the tip of your nose you didn't know was there for two hours."
     },
     {
-      id: 8,
-      image: "assets/photos/memory-08.jpg",
+      id: 7,
+      image: "assets/photos/memory-07.jpg",
       title: "Stargazing Under One Big Blanket",
       date: "09 July 2024",
       location: "Pine Hill Lookout",
@@ -130,8 +128,8 @@ And honestly, I think those ordinary days became some of my favorite memories �
       bfNote: "The way you gently leaned your head onto my chest when the night breeze got cold."
     },
     {
-      id: 9,
-      image: "assets/photos/memory-09.jpg",
+      id: 8,
+      image: "assets/photos/memory-08.jpg",
       title: "The Quiet Hug When You Were Exhausted",
       date: "18 September 2024",
       location: "Your Front Porch",
@@ -140,8 +138,8 @@ And honestly, I think those ordinary days became some of my favorite memories �
       bfNote: "The deep, relieved breath you took the second my arms wrapped around you."
     },
     {
-      id: 10,
-      image: "assets/photos/memory-10.jpg",
+      id: 9,
+      image: "assets/photos/memory-09.jpg",
       title: "Here, Now, & All Our Tomorrows",
       date: "Present & Forever",
       location: "Everywhere We Go",
@@ -283,7 +281,7 @@ And honestly, I think those ordinary days became some of my favorite memories �
     date: "A Promise For Forever",
     image: "assets/photos/secret.jpg",
     caption: "The exact moment I knew I never wanted to let you go.",
-    author: "Lucas ♡",
+    author: "Aakanksha ♡",
     body: `
       If you are reading this, it means you've walked through all our little memories and unlocked the quietest corner of my heart.
       <br><br>
