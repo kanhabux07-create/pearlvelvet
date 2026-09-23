@@ -56,36 +56,40 @@ Somehow, those little moments became the reason we started talking. ❤️`,
   title: "When Things Got Difficult",
   date: "August 2025",
 
-  story: `A week or two after we started talking, our parents found out about us, and a complaint was made at school.
+  story: `A week or two after we started talking, things suddenly became a little different.
 
-Things became a little awkward after that, and she had to deal with more pressure because her parents knew. Still, we kept talking whenever we could.
+Our parents found out about us, and for a while, everything felt uncertain. Things became awkward  and you had to deal with a lot more pressure.
 
-It wasn't the easiest time, but somehow we managed to stay connected. And honestly, I'm glad we did. ❤️`,
+But even then, you never completely walked away.
+
+We kept finding little ways to talk whenever we could. Maybe we didn't know where things were going back then, but looking back now, I think that's when I started realizing how much you actually meant to me.
+
+Some memories are beautiful because everything went right. And some are beautiful because, even when things didn't, we still chose to stay. ❤️`,
 
   caption: "Not every memory is perfect, but some are worth remembering.",
 
   bfNote: "Even when things got a little messy, you still stayed around. ❤️"
 },
-    {
-      id: 3,
-      image: "assets/photos/memory-03.jpg",
-      title: "That Silly Neon Arcade Game",
-      date: "28 October 2023",
-      location: "Retro Pixel Arcade",
-      story: "We spent almost an hour and twenty tokens trying to win that absurd, lopsided plush bear from the claw machine. When you finally grabbed it on our last coin, you jumped up and wrapped both arms around my neck in pure excitement. In that loud, neon-lit room with 8-bit sounds all around us, I realized I was falling completely in love with you.",
-      caption: "You won a plush bear; I won the love of my life.",
-      bfNote: "The adorable little victory dance you did right in front of the claw machine."
-    },
-    {
-      id: 4,
-      image: "assets/photos/memory-04.jpg",
-      title: "Sunset Over the Golden Pier",
-      date: "17 December 2023",
-      location: "Ocean Harbor",
-      story: "The winter sky turned into an unreal gradient of lilac, peach, and burning amber. We sat on the wooden dock with our feet dangling over the tide, sharing one cup of spiced hot chocolate. Neither of us said anything for twenty minutes; we just watched the sun dip into the horizon, listening to the waves. Some silences are more intimate than words.",
-      caption: "Watching the sun go down with my forever sunrise.",
-      bfNote: "The golden hour reflection glowing in your hair as the wind brushed it across your cheek."
-    },
+   {
+  id: 3,
+  image: "assets/photos/memory-03.jpg",
+  title: "When Everything Felt Normal Again",
+  date: "Class 8",
+
+  story: `After everything that happened, things didn't suddenly become perfect.
+
+They just started getting better, little by little.
+
+The awkwardness slowly faded. We started talking normally again, spending time together at school, laughing over small things and just being around each other without thinking too much about everything that had happened.
+
+By the time we were in Class 8, it almost felt like we had found our normal again.
+
+And honestly, I think those ordinary days became some of my favorite memories — because nothing special had to happen. Having you around was enough. ❤️`,
+
+  caption: "Nothing dramatic. Nothing perfect. Just us, slowly finding our way back to normal. ❤️",
+
+  bfNote: "I think this was when being around you started feeling less like a moment… and more like a part of my everyday life. ❤️"
+},
     {
       id: 5,
       image: "assets/photos/memory-05.jpg",
