@@ -87,16 +87,28 @@ And honestly, those ordinary days became some of my favorite memories. Nothing s
 
   bfNote: "I think this was when being around you started feeling less like a moment… and more like a part of my everyday life. ❤️"
 },
-    {
-      id: 4,
-      image: "assets/photos/memory-04.jpg",
-      title: "Midnight Voice Notes & 2 AM Calls",
-      date: "15 January 2024",
-      location: "Under My Bed Lamp",
-      story: "Neither of us wanted to say goodnight. You were talking in your soft, sleepy whisper about your childhood dreams, and I was lying on my bed staring at the ceiling, smiling like an idiot. Having you in my days was wonderful, but having you in my quiet midnight hours made you feel like home.",
-      caption: "Finding home in the quietest hours of the night.",
-      bfNote: "Your sleepy yawn when you swore you weren't tired yet."
-    },
+   {
+  id: 4,
+  image: "assets/photos/memory-04.jpg",
+  title: "The Day We Finally Met",
+  date: "25 December 2025",
+
+  story: `Our conversations had become a normal part of my days. We could talk about random things, laugh over stupid stuff, and somehow never run out of things to say.
+
+But talking through a screen was one thing.
+
+Then came 25 December.
+
+The first time we actually met.
+
+It was a little different seeing you there in front of me . Maybe I didn't say everything I wanted to say that day, but I remember how special it felt.
+
+After all those little conversations, we finally had a real memory together. ❤️`,
+
+  caption: "After so many conversations, we finally became a memory that actually happened. ❤️",
+
+  bfNote: "25 December — the day I finally got to see the person whom i lovee alott. ❤️"
+},
     {
       id: 5,
       image: "assets/photos/memory-05.jpg",
