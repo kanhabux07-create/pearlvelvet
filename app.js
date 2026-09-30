@@ -117,19 +117,15 @@ After all those little conversations, we finally had a real memory together. ❤
 
   story: `29 December was your birthday.
 
-Unfortunately, I couldn't meet you that day, and I really wished I could have been there with you.
+I couldn't meet you that day, and I really wished I could have been there with you. But somehow, the day still became one of the most beautiful days of my life.
 
-But somehow, the day still became one of the best and most special days of my life.
-I got to be a small part of your birthday. At 12 AM, I got to be one of the first people to wish you, and somehow, that little moment meant a lot to me
-I don't know exactly when it happened, but somewhere in between all those little moments, 29 December became one of my favorite days.
+At 12 AM, I got to be one of the first people to wish you, and that little moment meant more to me than I can explain.
 
-Maybe I wasn't there beside you that day, but my heart was.
+Maybe I wasn't beside you that day, but somehow, your birthday became one of my favorite memories — a day I'll always keep close to my heart. ❤️`,
 
-And that's something I'll always remember. ❤️`,
+  caption: "I couldn't be beside you that day, but somehow, your birthday became one of my favorite memories. ❤️",
 
-  caption: "I couldn't be there beside you, but somehow your birthday still became one of my favorite days. ❤️",
-
-  bfNote: "I don't think I'll ever forget how special 29 December felt to me. ❤️"
+  bfNote: "29 December became special simply because it was your day. ❤️"
 },
     {
       id: 6,
