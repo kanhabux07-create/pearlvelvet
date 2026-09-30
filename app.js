@@ -109,16 +109,28 @@ After all those little conversations, we finally had a real memory together. ❤
 
   bfNote: "25 December — the day I finally got to see the person whom i lovee alott. ❤️"
 },
-    {
-      id: 5,
-      image: "assets/photos/memory-05.jpg",
-      title: "Our First Roadtrip & Terrible Singing",
-      date: "22 March 2024",
-      location: "Highway 101 Toward the Coast",
-      story: "Four hours of open highway, empty road, and windows rolled half down. We played that one 90s playlist on loop and sang every single lyric at the top of our lungs—completely out of tune, completely unbothered. You were feeding me sour gummy worms while I drove, laughing until your stomach hurt.",
-      caption: "Nowhere to be, nothing to worry about, just you and me.",
-      bfNote: "How you tapped your sneakers against the dashboard to the rhythm of the drums."
-    },
+   {
+  id: 5,
+  image: "assets/photos/memory-05.jpg",
+  title: "The Birthday That Became My Favorite Day",
+  date: "29 December",
+
+  story: `29 December was your birthday.
+
+Unfortunately, I couldn't meet you that day, and I really wished I could have been there with you.
+
+But somehow, the day still became one of the best and most special days of my life.
+I got to be a small part of your birthday. At 12 AM, I got to be one of the first people to wish you, and somehow, that little moment meant a lot to me
+I don't know exactly when it happened, but somewhere in between all those little moments, 29 December became one of my favorite days.
+
+Maybe I wasn't there beside you that day, but my heart was.
+
+And that's something I'll always remember. ❤️`,
+
+  caption: "I couldn't be there beside you, but somehow your birthday still became one of my favorite days. ❤️",
+
+  bfNote: "I don't think I'll ever forget how special 29 December felt to me. ❤️"
+},
     {
       id: 6,
       image: "assets/photos/memory-06.jpg",
