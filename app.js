@@ -147,7 +147,7 @@ And honestly, those simple days became some of the happiest days for me. ❤️`
 
   caption: "No special place, no big moment — just a whole month of having you to talk to. ❤️",
 
-  bfNote: "I could talk to you for hours and still never feel like it was enough. ❤️”
+  bfNote: "I could talk to you for hours and still never feel like it was enough. ❤️"
 },
     {
       id: 7,
