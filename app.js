@@ -128,15 +128,27 @@ Maybe I wasn't beside you that day, but somehow, your birthday became one of my 
   bfNote: "29 December became special simply because it was your day. ❤️"
 },
     {
-      id: 6,
-      image: "assets/photos/memory-06.jpg",
-      title: "The Great Pasta Disaster",
-      date: "14 May 2024",
-      location: "My Kitchen",
-      story: "We were determined to make homemade fettuccine from scratch. By 8 PM, there was flour on the ceiling, sauce splattered across my favorite shirt, and the pasta was completely overcooked. We gave up, sat down on the kitchen floor with two forks and paper plates, put on jazz, and danced barefoot in the kitchen until midnight.",
-      caption: "The worst dinner we ever cooked, and the best night of my life.",
-      bfNote: "The tiny smudge of flour on the tip of your nose you didn't know was there for two hours."
-    },
+  id: 6,
+  image: "assets/photos/memory-06.jpg",
+  title: "Our little winter",
+  date: "January",
+
+  story: `Then came winters-our favorite ❤️
+
+It was our vacation, and somehow, we finally had so much time for each other.
+
+We talked during the day, talked again at night, and somehow never got tired of talking.
+
+There was no rush, no school, and no reason to end our conversations early. We were just free to talk, laugh, share little things, and enjoy each other's company.
+
+Nothing extraordinary happened. It was simply a month filled with us.
+
+And honestly, those simple days became some of the happiest days for me. ❤️`,
+
+  caption: "No special place, no big moment — just a whole month of having you to talk to. ❤️",
+
+  bfNote: "I could talk to you for hours and still never feel like it was enough. ❤️”
+},
     {
       id: 7,
       image: "assets/photos/memory-07.jpg",
