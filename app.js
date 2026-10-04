@@ -149,16 +149,28 @@ And honestly, those simple days became some of the happiest days for me. ❤️`
 
   bfNote: "I could talk to you for hours and still never feel like it was enough. ❤️"
 },
-    {
-      id: 7,
-      image: "assets/photos/memory-07.jpg",
-      title: "Stargazing Under One Big Blanket",
-      date: "09 July 2024",
-      location: "Pine Hill Lookout",
-      story: "We drove out past the city lights with an old wool blanket and two pillows in the back. Lying there looking up at millions of stars, you pointed out constellations you probably made up on the spot. I looked over at your face lit up by the pale moonlight and thought: the universe can keep all its stars, because the most beautiful thing in existence is lying right beside me.",
-      caption: "A million stars above, but I only had eyes for one.",
-      bfNote: "The way you gently leaned your head onto my chest when the night breeze got cold."
-    },
+   {
+  id: 7,
+  image: "assets/photos/memory-06.jpg",
+  title: "Two Rooms, One Conversation",
+  date: " February -june",
+
+  story: `February to  june  felt different.
+
+We had so much time to talk — from random conversations during the day to those late-night talks where neither of us really wanted to say goodnight.
+
+Sometimes we talked about everything. Sometimes about absolutely nothing.
+
+But somehow, every conversation made my day a little better.
+
+We were in two different places, living our own days, yet somehow you became the person I wanted to tell everything to.
+
+Somewhere along the way, your messages became the little part of my day that I never wanted to miss`,
+
+  caption: "Somewhere between all those conversations, you became my favorite part of the day. ❤️",
+
+  bfNote: "I didn't know it then, but I was slowly getting used to having you in every part of my day. ❤️"
+},
     {
       id: 8,
       image: "assets/photos/memory-08.jpg",
