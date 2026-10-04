@@ -157,7 +157,7 @@ And honestly, those simple days became some of the happiest days for me. ❤️`
 
   story: `February to  june  felt different.
 
-We had so much time to talk — from random conversations during the day to those late-night talks where neither of us really wanted to say goodnight.
+ the day to those late-night talks where neither of us really wanted to say goodnight.
 
 Sometimes we talked about everything. Sometimes about absolutely nothing.
 
